@@ -2,4 +2,6 @@
 
 ##  **Idea  Principal**
 
-Los patines eléctricos se han puesto de moda en este último año, la idea sería una aplicación que compara los diferentes patienes eléctricos y selecciona la mejor opción calidad-precio entre todos ellos. Además contorá con un sistema de puntuacions de cinco estrellas para cada patín, estas puntuaciones se tendrán en cuenta a la hora de seleccionar el patín para cada usuario.
+La idea de este proyecto es una aplicación que nos muestre información sobre la temperatura media de España para estudiar el cambio climático.
+
+El sistema nos procesa todos los datos, calcula la media de la temperatura de España en un año concreto y la compara con la media mundial. También el sistema nos generará un gráfico de la temperatura para poder visualizar mejor estos datos. 
