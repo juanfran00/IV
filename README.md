@@ -1,7 +1,7 @@
-# IV
+# SPORTTIA
 
 ##  **Idea  Principal**
 
-La idea de este proyecto es una aplicación que nos muestre información sobre la temperatura media de España para estudiar el cambio climático.
+La idea de este proyecto es una aplicación que nos permite alquilar pistas deportivas de una localidad(fútbol,tenis,baloncesto ... etc).
 
-El sistema nos procesa todos los datos, calcula la media de la temperatura de España en un año concreto y la compara con la media mundial. También el sistema nos generará un gráfico de la temperatura para poder visualizar mejor estos datos. 
+La aplicación te dejara elegir la localidad, el tipo de pista,el día de la reserva y hora ,nos da información de cuando termina la reserva y cuánto cuesta.
