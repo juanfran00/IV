@@ -1,6 +1,7 @@
  
 ##  **Idea  Principal**
 
-Cuando eres seguidor de varios videojuegos, a veces cuesta estar informado de cuándo lanzan un nuevo título de una saga, descuentos, y la posibilidad de reservar tus juegos favoritos, etc. Con este proyecto podremos estar informados sin la necesidad de recorrer Google.
+La idea es crear una aplicación con la que se pueda gestionar los productos de un supermercado, se podrá consultar los productos como su etiquetado, añadir , eliminar y actualizar productos. Ademas si es posible haremos un sistema que nos avise cuando no quedan existencias suficientes de un producto o si se aproxima mucho su fecha de caducidad.
 
-La idea es crear una aplicación que almacene información sobre videojuegos, como puede ser los trailers, personajes que aparecen, si tiene multijugador y algunas noticias relacionadas con estos. Además, éste enviará notificaciones a los clientes para mantenerlos informados de los próximos lanzamientos.
+Cada producto dispondrá de la siguiente información:
+Marca,peso,precio,valor nutricional.
